@@ -27,14 +27,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atharvraut&theme=github-dark&hide_border=true" />
-</p>
-
----
-
 ### 📫 Get in Touch
 
 - Email: [atharvraut2109@gmail.com](mailto:atharvraut2109@gmail.com)
