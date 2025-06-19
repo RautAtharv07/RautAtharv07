@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Atharv Raut 👋</h1>
-<h3 align="center">Backend Developer | AI & ML Enthusiast | Open Source Contributor</h3>
+<h3 align="center">Aspiring AI Engineer | Python Backend Developer | Open Source Enthusiast/h3>
 
 ---
 
