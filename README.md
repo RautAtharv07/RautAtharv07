@@ -6,10 +6,15 @@
 ### 🧑‍💻 About Me
 
 🎓 I'm Atharv Raut, currently pursuing a degree in Artificial Intelligence and Data Science.
+
 💻 Passionate about backend development, open source, and AI/ML applications in real-world problems.
+
 🛠️ Skilled in building scalable web services using Python frameworks like Django and FastAPI.
+
 🧠 Strong interest in exploring cutting-edge technologies like Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) systems.
+
 🧩 Focused on clean architecture, REST API design, and efficient database management.
+
 🚀 Continuously learning, experimenting, and collaborating on innovative tech projects to grow as a developer.
 
 ---
