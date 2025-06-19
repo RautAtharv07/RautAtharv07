@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Atharv Raut 👋</h1>
+<h1 align="center">Hi, I'm Atharv 👋</h1>
 <h3 align="center">Aspiring AI Engineer | Python Backend Developer | Open Source Enthusiast </h3>
 
 ---
